@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mitripy@gmail.com**
 
-Codewards badge: ![codewars]https://www.codewars.com/users/MiTriPy/badges/micro
+Codewards badge: ![codewars](https://www.codewars.com/users/MiTriPy/badges/micro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
