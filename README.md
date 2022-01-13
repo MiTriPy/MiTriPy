@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm MiTriPy</h1>
-<h3 align="center">Full Stack Developer that is also interested in Machine learning and Cybersecurity, from London</h3>
+<h3 align="center">24 Years Old Full Stack Developer with 3 years of experience based in London</h3>
 
-- 📫 How to reach me **mitripy@gmail.com**
+- How to reach me: **mitripy@gmail.com**
+- Main occupation: Full Stack Software Development mainly using Python/Django and JavaScript/React.
+- Other intrests: Cybersecurity, Machine Learning. 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
+
 
 Codewards badge: ![codewars](https://www.codewars.com/users/MiTriPy/badges/micro)
 
