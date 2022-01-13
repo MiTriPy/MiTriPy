@@ -5,7 +5,7 @@
 - Main occupation: Full Stack Software Development mainly using Python/Django and JavaScript/React.
 - Other intrests: Cybersecurity, Machine Learning. 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mitripy.MiTriPy)
 
 
 
