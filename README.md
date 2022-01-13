@@ -7,7 +7,7 @@
 ### Welcome! &nbsp; ![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=mitripy.MiTriPy)
 ---
 
-I have started on the journey of becoming a full-stack developer, right now my main occupation is working with Python/Django and JavaScript/React. Other interests of mine are the fields of Cybersecurity and Machine Learning. 
+I have started my the journey of becoming a full-stack developer, right now my main occupation is working with Python/Django and JavaScript/React. Other interests of mine are the fields of Cybersecurity and Machine Learning. 
 
 #### Other Tech Occupations beside my job:
 - Codewars practice: ![Codewars Badge](https://www.codewars.com/users/MiTriPy/badges/micro)
