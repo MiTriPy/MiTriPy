@@ -27,5 +27,5 @@ I have started my the journey of becoming a full-stack developer, right now my m
 
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&username=MiTriPy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiTriPy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </p>
