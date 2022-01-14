@@ -11,7 +11,7 @@ I have started my the journey of becoming a full-stack developer, right now my m
 
 #### Other Tech Occupations beside my job:
 - Codewars practice: ![Codewars Badge](https://www.codewars.com/users/MiTriPy/badges/micro)
-- Started to help as much as I can: <a href="https://stackoverflow.com/users/17863820/mitripy" target="blank"><img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17863820" alt="https://stackoverflow.com/users/17863820/mitripy" height="30" width="200" /></a>
+- Started to help as much as I can:<a href="https://stackoverflow.com/users/17863820/mitripy" target="blank"><img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/17863820" alt="https://stackoverflow.com/users/17863820/mitripy" height="30" width="200" /></a>
 - Cybersecurity and Machine Learning
 
 #### Technologies I have used:
